@@ -1,0 +1,45 @@
+header{
+    
+   
+    position:fixed;
+    top:0;
+    width: 100%;
+    overflow: hidden;
+    z-index:1;
+    margin-bottom: 0;
+   
+    
+}
+
+
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 15px;
+    
+    
+    
+}
+
+a:hover{
+    font-weight: bolder;
+    color: rgb(35, 35, 252);
+   
+    
+}
+
+.logo{
+    font-family: 'Goldman', cursive; font-size: 20px; color: white !important;
+    
+}
+
+.logo:hover{
+    background: none;
+   
+
+}
+
+@media (hover: none) {
+    a:hover { color: grey; }
+}
+

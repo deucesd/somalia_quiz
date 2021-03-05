@@ -1,0 +1,8 @@
+.ijj {
+    width: 100% !important;
+    min-height: 100% !important;
+    position: fixed;
+    background-image: url("/assets/img/shorel.jpg");
+    background-size: cover;
+    background-position: center;
+}
